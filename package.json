@@ -1,0 +1,26 @@
+{
+  "name": "ahhhh",
+  "version": "1.0.0",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkkoG/ahhhh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkkoG/ahhhh/issues"
+  },
+  "homepage": "https://github.com/EkkoG/ahhhh#readme",
+  "description": "测试 postinstall 的简单包",
+  "dependencies": {
+    "ahhhh": "file:ahhhh-1.0.0.tgz"
+  }
+}
