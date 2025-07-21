@@ -19,8 +19,5 @@
     "url": "https://github.com/EkkoG/ahhhh/issues"
   },
   "homepage": "https://github.com/EkkoG/ahhhh#readme",
-  "description": "测试 postinstall 的简单包",
-  "dependencies": {
-    "ahhhh": "file:ahhhh-1.0.0.tgz"
-  }
+  "description": "test postinstall script"
 }
